@@ -1,7 +1,8 @@
 # Simon-Says-Game
 A fully responsive web-based "Simon Says" game built using <b>HTML, CSS, and JavaScript</b>. This game tests your memory and reaction skills. Follow the sequence of colors and sounds shown by Simon, and repeat the pattern correctly to progress to the next level.
-<h3>Demo</h3>
-You can try the game live by visiting the deployed version: Live Demo
+<h3>Visit Webpage</h3>
+You can try the game live by visiting the deployed version:
+https://mohammadzameerp.github.io/Simon-Says-Game/
 <br>
 <h3>Features</h3>
 Responsive Design: Optimized for both desktop and mobile devices.
